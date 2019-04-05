@@ -1,7 +1,7 @@
 # GCN for Link Prediction
 
 Model Design:
-<img src='https://github.com/kenyonke/GCNLinkPrediction/blob/master/model.JPG'>
+<img src='https://github.com/kenyonke/LinkPredictionGCN/blob/master/model.JPG'>
 
 ## Run the code:
 ```
