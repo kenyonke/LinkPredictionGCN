@@ -4,8 +4,8 @@ Model Design:
 <img src='https://github.com/kenyonke/LinkPredictionGCN/blob/master/model.JPG'>
 
 ## Requierments
-### tensorflow(>0.12)
-### networkx
+#### tensorflow(>0.12)
+#### networkx
 
 ## Run the code:
 ```
