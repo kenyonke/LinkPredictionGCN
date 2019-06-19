@@ -1,7 +1,11 @@
-# GCN for Link Prediction
+# Learning Edge Features based on GCN forLink Prediction
 
 Model Design:
 <img src='https://github.com/kenyonke/LinkPredictionGCN/blob/master/model.JPG'>
+
+## Requierments
+### tensorflow(>0.12)
+### networkx
 
 ## Run the code:
 ```
