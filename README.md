@@ -7,10 +7,15 @@ Model Design:
 #### tensorflow(>0.12)
 #### networkx
 
-## Run the code:
+## Preprocess the Data
 ```
 cd LPG
 python RemoveLinks.py (generate the training link and testing links for the model)
+```
+
+## Run the code:
+```
+cd LPG
 python train.py
 ```
 
