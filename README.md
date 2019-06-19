@@ -10,10 +10,7 @@ Model Design:
 ## Run the code:
 ```
 cd LPG
-python RemoveLinks.py to generate the training link and testing links for the model.
-```
-```
-Then train the model
+python RemoveLinks.py (generate the training link and testing links for the model)
 python train.py
 ```
 
