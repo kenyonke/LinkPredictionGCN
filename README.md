@@ -1,4 +1,4 @@
-# Learning Edge Features based on GCN forLink Prediction
+# Learning Edge Features based on GCN for Link Prediction
 
 Model Design:
 <img src='https://github.com/kenyonke/LinkPredictionGCN/blob/master/model.JPG'>
